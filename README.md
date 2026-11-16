@@ -1,4 +1,3 @@
-# cookie-cats-ab-test-analysis
 # Cookie Cats — A/B Test & Player Behavior Analysis
 
 **Product Analytics | Mobile Gaming | A/B Testing | SQL | Python**
