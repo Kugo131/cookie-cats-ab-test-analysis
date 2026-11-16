@@ -97,7 +97,7 @@ This is a descriptive analysis of the relationship between total activity and re
 
 ## Repository Contents
 
-- `cookie_cats_analysis.ipynb` — complete analysis, visualizations, statistical tests, and SQL queries.
+- `cookie_cats_ab.ipynb` — complete analysis, visualizations, statistical tests, and SQL queries.
 - `data/` — dataset or instructions for accessing it.
 - `images/` — selected charts from the analysis.
 
