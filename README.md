@@ -8,7 +8,7 @@ This project analyzes player behavior in *Cookie Cats*, a mobile puzzle game. Th
 
 The analysis also explores player engagement patterns and identifies opportunities for further product investigation.
 
-[data: https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing](https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing)
+[DATA](https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing)
 
 ## Business Questions
 
